@@ -1,10 +1,10 @@
 # Web Design group project
 
-
+This GitHub page is designed to ease the workflow of the entire Semester Two group project.
 
 ## Contributing to this project
 
-All pull requests will be ignored unless you are an active part of my group with a GitHub account. This project does not allow outside sources of contribution.
+**All pull requests will be ignored unless you are an active part of my group with a GitHub account. This project does not allow outside sources of contribution.**
 
 Submitting a pull request allows you to contribute to this project without modifying the primary codebase, thereby significantly reducing the risk of seriously breaking anything important.
 
