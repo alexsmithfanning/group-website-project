@@ -32,11 +32,11 @@ First and foremost, you need to know the basics of Git and how to install it. <a
 
 ### Project specific resources
 
-* [Project workbook (PDF)](https://drive.google.com/file/d/0B1rYkN6kTOtDdzBiWUJmTGNtMnM/view?usp=sharing)
+* <a href="https://drive.google.com/file/d/0B1rYkN6kTOtDdzBiWUJmTGNtMnM/view?usp=sharing" target="_blank">Project workbook (PDF)</a>
 
-* [Project grading rubric (PDF)](https://drive.google.com/file/d/0B1rYkN6kTOtDMGpOSXIxXzd5T2c/view?usp=sharing)
+* <a href="https://drive.google.com/file/d/0B1rYkN6kTOtDMGpOSXIxXzd5T2c/view?usp=sharing" target="_blank">Project grading rubric (PDF)</a>
 
-* [Project grading form (PDF)](https://drive.google.com/file/d/0B1rYkN6kTOtDWHc5OV85bXdKVjA/view?usp=sharing)
+* <a href="https://drive.google.com/file/d/0B1rYkN6kTOtDWHc5OV85bXdKVjA/view?usp=sharing" target="_blank">Project grading form (PDF)</a>
 
 ### Other useful resources
 
