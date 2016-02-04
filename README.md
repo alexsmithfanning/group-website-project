@@ -26,7 +26,7 @@ In order to access GitHub, you first need to create an account. If you don't hav
 
 First and foremost, you need to know the basics of Git and how to install it. <a href="https://git-scm.com/doc" target="_blank">Head on over here</a> to see the documentation and reference implementation.
 
-[This](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf) document is also of some use. It will allow you to quickly get started using Git.
+<a href="https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf" target="_blank">This</a> document is also of some use. It will allow you to quickly get started using Git.
 
 ## Useful project resources
 
