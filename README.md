@@ -25,3 +25,21 @@ In order to access GitHub, you first need to create an account. If you don't hav
 First and foremost, you need to know the basics of Git and how to install it. [Head on over here](https://git-scm.com/doc) to see the documentation and reference implementation.
 
 [This](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf) document is also of some use. It will allow you to quickly get started using Git.
+
+## Useful project resources
+
+### Project specific resources
+
+* [Project workbook (PDF)](https://drive.google.com/file/d/0B1rYkN6kTOtDdzBiWUJmTGNtMnM/view?usp=sharing)
+
+* [Project grading rubric (PDF)](https://drive.google.com/file/d/0B1rYkN6kTOtDMGpOSXIxXzd5T2c/view?usp=sharing)
+
+* [Project grading form (PDF)](https://drive.google.com/file/d/0B1rYkN6kTOtDWHc5OV85bXdKVjA/view?usp=sharing)
+
+### Other useful resources
+
+* [youtube-dl](https://rg3.github.io/youtube-dl/) (YouTube video downloader)
+
+It uses a terminal interface, but it can get around the school firewall. It's not hard to use, see the documentation [here](https://github.com/rg3/youtube-dl/blob/master/README.md#readme). You can grab an unblocked terminal emulator from my Google Drive [here](https://drive.google.com/file/d/0B1rYkN6kTOtDMTVOWVdHUFN0cVU/view?usp=sharing).
+
+To use it, just copy the downloaded `youtube-dl.exe` and `cmd.exe` to a folder and double click on `cmd.exe` and type in the command `youtube-dl`. If you get output then it worked. To download a video, type `youtube-dl <URL>` and it will download the selected video.
