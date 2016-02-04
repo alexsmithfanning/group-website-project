@@ -2,6 +2,8 @@
 
 This GitHub page is designed to ease the workflow of the entire Semester Two group project.
 
+[**Preview what the website looks like currently.**](http://alexsmithfanning.github.io/group-website-project/)
+
 ## Contributing to this project
 
 **All pull requests will be ignored unless you are an active part of my group with a GitHub account. This project does not allow outside sources of contribution.**
