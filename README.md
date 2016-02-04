@@ -2,7 +2,7 @@
 
 This GitHub page is designed to ease the workflow of the entire Semester Two group project.
 
-[**Preview what the website looks like currently.**](http://alexsmithfanning.github.io/group-website-project/)
+**To preview what it looks like right now, click [here](http://alexsmithfanning.github.io/group-website-project/).**
 
 ## Contributing to this project
 
