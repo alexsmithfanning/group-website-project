@@ -2,7 +2,7 @@
 
 This GitHub page is designed to ease the workflow of the entire Semester Two group project.
 
-**To preview what it looks like right now, click <a href="http://alexsmithfanning.github.io/group-website-project/" target="_blank">here.**
+**To preview what it looks like right now, click <a href="http://alexsmithfanning.github.io/group-website-project/" target="_blank">here</a>.**
 
 ## Contributing to this project
 
@@ -24,7 +24,7 @@ In order to access GitHub, you first need to create an account. If you don't hav
 
 ## Using Git
 
-First and foremost, you need to know the basics of Git and how to install it. [Head on over here](https://git-scm.com/doc) to see the documentation and reference implementation.
+First and foremost, you need to know the basics of Git and how to install it. <a href="https://git-scm.com/doc" target="_blank">Head on over here</a> to see the documentation and reference implementation.
 
 [This](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf) document is also of some use. It will allow you to quickly get started using Git.
 
