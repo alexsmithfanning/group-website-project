@@ -2,7 +2,7 @@
 
 This GitHub page is designed to ease the workflow of the entire Semester Two group project.
 
-**To preview what it looks like right now, click [here](http://alexsmithfanning.github.io/group-website-project/).**
+**To preview what it looks like right now, click <a href="http://alexsmithfanning.github.io/group-website-project/" target="_blank">here.**
 
 ## Contributing to this project
 
@@ -40,8 +40,8 @@ First and foremost, you need to know the basics of Git and how to install it. [H
 
 ### Other useful resources
 
-* [youtube-dl](https://rg3.github.io/youtube-dl/) (YouTube video downloader)
+* <a href="https://rg3.github.io/youtube-dl/" target="_blank">youtube-dl</a> (YouTube video downloader)
 
-It uses a terminal interface, but it can get around the school firewall. It's not hard to use, see the documentation [here](https://github.com/rg3/youtube-dl/blob/master/README.md#readme). You can grab an unblocked terminal emulator from my Google Drive [here](https://drive.google.com/file/d/0B1rYkN6kTOtDMTVOWVdHUFN0cVU/view?usp=sharing).
+It uses a terminal interface, but it can get around the school firewall. It's not hard to use, see the documentation <a href="https://github.com/rg3/youtube-dl/blob/master/README.md#readme" target="_blank">here</a>. You can grab an unblocked terminal emulator from my Google Drive <a href="https://drive.google.com/file/d/0B1rYkN6kTOtDMTVOWVdHUFN0cVU/view?usp=sharing" target="_blank">here</a>.
 
-To use it, just copy the downloaded `youtube-dl.exe` and `cmd.exe` to a folder and double click on `cmd.exe` and type in the command `youtube-dl`. If you get output then it worked. To download a video, type `youtube-dl <URL>` and it will download the selected video.
+To use it, just copy the downloaded `youtube-dl.exe` and `cmd.exe` to a folder and double click on `cmd.exe` and type in the command `youtube-dl`. If you get output then it worked. To download a video, type `youtube-dl <URL>` and it will download the video specified in the URL.
