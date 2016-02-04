@@ -15,3 +15,11 @@ In order to create a pull request, you first have to fork the project into your 
 If you find an issue with the code, create an issue for it and the group will look it over.
 
 To create an issue, go to the **issues tab** and and click on `New Issue`.
+
+## Creating a GitHub account
+
+In order to access GitHub, you first need to create an account. If you don't have one, get one now. A GitHub account is free and you get access to all the cool features that GitHub (and Git) provide!
+
+## Using Git
+
+First and foremost, you need to know the basics of Git and how to install it. [Head on over here](https://git-scm.com/doc) to see the documentation and reference implementation.
