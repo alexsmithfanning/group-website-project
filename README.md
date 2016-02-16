@@ -48,7 +48,7 @@ The <a href="https://training.github.com/kit/downloads/github-git-cheat-sheet.pd
 
 I chose the Roboto font for our project. I chose it because of how many different types and styles it has. To give you an idea of how many, here's a small table of the font types and weights that Roboto offers:
 
-#### Roboto
+#### <a href="https://www.google.com/fonts/specimen/Roboto" target="_blank">Roboto</a>
 
 | Font name      | Weight | Type       | Has italic counterpart |
 | -------------- | ------ | ---------- | ---------------------- |
@@ -59,7 +59,7 @@ I chose the Roboto font for our project. I chose it because of how many differen
 | Roboto Bold    | 700    | Sans-serif | Yes                    |
 | Roboto Black   | 900    | Sans-serif | Yes                    |
 
-#### Roboto Condensed
+#### <a href="https://www.google.com/fonts/specimen/Roboto+Condensed" target="_blank">Roboto Condensed</a>
 
 | Font name                | Weight | Type       | Has italic counterpart |
 | ------------------------ | ------ | ---------- | ---------------------- |
@@ -67,7 +67,7 @@ I chose the Roboto font for our project. I chose it because of how many differen
 | Roboto Condensed Regular | 400    | Sans-serif | Yes                    |
 | Roboto Condensed Bold    | 700    | Sans-serif | Yes                    |
 
-#### Roboto Mono
+#### <a href="https://www.google.com/fonts/specimen/Roboto+Mono" target="_blank">Roboto Mono</a>
 
 | Font name           | Weight | Type       | Has italic counterpart |
 | ------------------- | ------ | ---------- | ---------------------- |
@@ -77,7 +77,7 @@ I chose the Roboto font for our project. I chose it because of how many differen
 | Roboto Mono Medium  | 500    | Monospace  | Yes                    |
 | Roboto Mono Bold    | 700    | Monospace  | Yes                    |
 
-#### Roboto Slab
+#### <a href="https://www.google.com/fonts/specimen/Roboto+Slab" target="_blank">Roboto Slab</a>
 
 | Font name           | Weight | Type   | Has italic counterpart |
 | ------------------- | ------ | ------ | ---------------------- |
