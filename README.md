@@ -2,6 +2,8 @@
 
 This GitHub page is designed to ease the workflow of the entire Semester Two group project.
 
+This project now has Slack integration. **Visit the Slack page [here](https://apwgroup.slack.com).** You must recieve an invite from me to post in the Slack feed.
+
 **To preview what it looks like right now, click <a href="http://alexsmithfanning.github.io/group-website-project/">here</a>.**
 
 ## Contributing to this project
