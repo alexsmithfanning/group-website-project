@@ -28,6 +28,8 @@ First and foremost, you need to know the basics of Git and how to install it. <a
 
 The <a href="https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf">GitHub/Git Cheat Sheet</a> is also of some use. It will allow you to quickly get started using Git.
 
+[Here's another GitHub cheat sheet](https://github.com/tiimgreen/github-cheat-sheet). This one is exclusive to GitHub, but it is filled with really useful information.
+
 ## Useful project resources
 
 ### Project specific resources
