@@ -44,7 +44,40 @@ The <a href="https://training.github.com/kit/downloads/github-git-cheat-sheet.pd
 
 I chose the Roboto font for our project. I chose it because of how many different types and styles it has. To give you an idea of how many, here's a small table of the font types and weights that Roboto offers:
 
-| Font name        | Weight    | Style | Has italic counterpart |
-| ---------------- | --------- | ----- | ---------------------- |
-| Roboto Thin      | 100       | Sans  | Yes                    |
-| Roboto Light     | 300       | Sans  | Yes                    |
+#### Roboto
+
+| Font name      | Weight | Type       | Has italic counterpart |
+| -------------- | ------ | ---------- | ---------------------- |
+| Roboto Thin    | 100    | Sans-serif | Yes                    |
+| Roboto Light   | 300    | Sans-serif | Yes                    |
+| Roboto Regular | 400    | Sans-serif | No                     |
+| Roboto Medium  | 500    | Sans-serif | Yes                    |
+| Roboto Bold    | 700    | Sans-serif | Yes                    |
+| Roboto Black   | 900    | Sans-serif | Yes                    |
+
+#### Roboto Condensed
+
+| Font name                | Weight | Type       | Has italic counterpart |
+| ------------------------ | ------ | ---------- | ---------------------- |
+| Roboto Condensed Light   | 300    | Sans-serif | Yes                    |
+| Roboto Condensed Regular | 400    | Sans-serif | Yes                    |
+| Roboto Condensed Bold    | 700    | Sans-serif | Yes                    |
+
+#### Roboto Mono
+
+| Font name           | Weight | Type       | Has italic counterpart |
+| ------------------- | ------ | ---------- | ---------------------- |
+| Roboto Mono Thin    | 100    | Monospace  | Yes                    |
+| Roboto Mono Light   | 300    | Monospace  | Yes                    |
+| Roboto Mono Regular | 400    | Monospace  | No                     |
+| Roboto Mono Medium  | 500    | Monospace  | Yes                    |
+| Roboto Mono Bold    | 700    | Monospace  | Yes                    |
+
+#### Roboto Slab
+
+| Font name           | Weight | Type   | Has italic counterpart |
+| ------------------- | ------ | ------ | ---------------------- |
+| Roboto Slab Thin    | 100    | Serif  | No                     |
+| Roboto Slab Light   | 300    | Serif  | No                     |
+| Roboto Slab Regular | 400    | Serif  | No                     |
+| Roboto Slab Bold    | 700    | Serif  | No                     |
