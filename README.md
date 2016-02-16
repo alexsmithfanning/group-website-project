@@ -1,4 +1,4 @@
-sada# Web Design group project
+# Web Design group project
 
 This GitHub page is designed to ease the workflow of the entire Semester Two group project.
 
