@@ -1,80 +1,80 @@
 /* BEGIN ROBOTO NORMAL FONT DEFINITIONS */
 
 @font-face {
-    font-family: "Roboto";
-    src: url("fonts/Roboto/Roboto-Thin.ttf");
-    font-weight: 100;
-    font-style: normal;
+  font-family: "Roboto";
+  src: url("fonts/Roboto/Roboto-Thin.ttf");
+  font-weight: 100;
+  font-style: normal;
 }
 
 @font-face {
-    font-family: "Roboto";
-    src: url("fonts/Roboto/Roboto-ThinItalic.ttf");
-    font-weight: 100;
-    font-style: italic;
+  font-family: "Roboto";
+  src: url("fonts/Roboto/Roboto-ThinItalic.ttf");
+  font-weight: 100;
+  font-style: italic;
 }
 
 @font-face {
-    font-family: "Roboto";
-    src: url("fonts/Roboto/Roboto-Light.ttf");
-    font-weight: 300;
-    font-style: normal;
+  font-family: "Roboto";
+  src: url("fonts/Roboto/Roboto-Light.ttf");
+  font-weight: 300;
+  font-style: normal;
 }
 
 @font-face {
-    font-family: "Roboto";
-    src: url("fonts/Roboto/Roboto-LightItalic.ttf");
-    font-weight: 300;
-    font-style: italic;
+  font-family: "Roboto";
+  src: url("fonts/Roboto/Roboto-LightItalic.ttf");
+  font-weight: 300;
+  font-style: italic;
 }
 
 @font-face {
-    font-family: "Roboto";
-    src: url("fonts/Roboto/Roboto-Regular.ttf");
-    font-weight: 400;
-    font-style: normal;
+  font-family: "Roboto";
+  src: url("fonts/Roboto/Roboto-Regular.ttf");
+  font-weight: 400;
+  font-style: normal;
 }
 
 @font-face {
-    font-family: "Roboto";
-    src: url("fonts/Roboto/Roboto-Medium.ttf");
-    font-weight: 500;
-    font-style: normal;
+  font-family: "Roboto";
+  src: url("fonts/Roboto/Roboto-Medium.ttf");
+  font-weight: 500;
+  font-style: normal;
 }
 
 @font-face {
-    font-family: "Roboto";
-    src: url("fonts/Roboto/Roboto-MediumItalic.ttf");
-    font-weight: 500;
-    font-style: italic;
+  font-family: "Roboto";
+  src: url("fonts/Roboto/Roboto-MediumItalic.ttf");
+  font-weight: 500;
+  font-style: italic;
 }
 
 @font-face {
-    font-family: "Roboto";
-    src: url("fonts/Roboto/Roboto-Bold.ttf");
-    font-weight: 700;
-    font-style: normal;
+  font-family: "Roboto";
+  src: url("fonts/Roboto/Roboto-Bold.ttf");
+  font-weight: 700;
+  font-style: normal;
 }
 
 @font-face {
-    font-family: "Roboto";
-    src: url("fonts/Roboto/Roboto-BoldItalic.ttf");
-    font-weight: 700;
-    font-style: italic;
+  font-family: "Roboto";
+  src: url("fonts/Roboto/Roboto-BoldItalic.ttf");
+  font-weight: 700;
+  font-style: italic;
 }
 
 @font-face {
-    font-family: "Roboto";
-    src: url("fonts/Roboto/Roboto-Black.ttf");
-    font-weight: 900;
-    font-style: normal;
+  font-family: "Roboto";
+  src: url("fonts/Roboto/Roboto-Black.ttf");
+  font-weight: 900;
+  font-style: normal;
 }
 
 @font-face {
-    font-family: "Roboto";
-    src: url("fonts/Roboto/Roboto-BlackItalic.ttf");
-    font-weight: 900;
-    font-style: italic;
+  font-family: "Roboto";
+  src: url("fonts/Roboto/Roboto-BlackItalic.ttf");
+  font-weight: 900;
+  font-style: italic;
 }
 
 /* END ROBOTO NORMAL FONT DEFINITIONS */
@@ -82,45 +82,45 @@
 /* BEGIN ROBOTO CONDENSED FONT DEFINITIONS */
 
 @font-face {
-    font-family: "Roboto Condensed";
-    src: url("fonts/Roboto Condensed/RobotoCondensed-Light.ttf");
-    font-weight: 300;
-    font-style: normal;
+  font-family: "Roboto Condensed";
+  src: url("fonts/Roboto Condensed/RobotoCondensed-Light.ttf");
+  font-weight: 300;
+  font-style: normal;
 }
 
 @font-face {
-    font-family: "Roboto Condensed";
-    src: url("fonts/Roboto Condensed/RobotoCondensed-LightItalic.ttf");
-    font-weight: 300;
-    font-style: italic;
+  font-family: "Roboto Condensed";
+  src: url("fonts/Roboto Condensed/RobotoCondensed-LightItalic.ttf");
+  font-weight: 300;
+  font-style: italic;
 }
 
 @font-face {
-    font-family: "Roboto Condensed";
-    src: url("fonts/Roboto Condensed/RobotoCondensed-Regular.ttf");
-    font-weight: 400;
-    font-style: normal;
+  font-family: "Roboto Condensed";
+  src: url("fonts/Roboto Condensed/RobotoCondensed-Regular.ttf");
+  font-weight: 400;
+  font-style: normal;
 }
 
 @font-face {
-    font-family: "Roboto Condensed";
-    src: url("fonts/Roboto Condensed/RobotoCondensed-Italic.ttf");
-    font-weight: 400;
-    font-style: italic;
+  font-family: "Roboto Condensed";
+  src: url("fonts/Roboto Condensed/RobotoCondensed-Italic.ttf");
+  font-weight: 400;
+  font-style: italic;
 }
 
 @font-face {
-    font-family: "Roboto Condensed";
-    src: url("fonts/Roboto Condensed/RobotoCondensed-Bold.ttf");
-    font-weight: 700;
-    font-style: normal;
+  font-family: "Roboto Condensed";
+  src: url("fonts/Roboto Condensed/RobotoCondensed-Bold.ttf");
+  font-weight: 700;
+  font-style: normal;
 }
 
 @font-face {
-    font-family: "Roboto Condensed";
-    src: url("fonts/Roboto Condensed/RobotoCondensed-BoldItalic.ttf");
-    font-weight: 700;
-    font-style: italic;
+  font-family: "Roboto Condensed";
+  src: url("fonts/Roboto Condensed/RobotoCondensed-BoldItalic.ttf");
+  font-weight: 700;
+  font-style: italic;
 }
 
 /* END ROBOTO CONDENSED FONT DEFINITIONS */
@@ -128,66 +128,66 @@
 /* BEGIN ROBOTO MONO FONT DEFINITIONS */
 
 @font-face {
-    font-family: "Roboto Mono";
-    src: url("fonts/Roboto Mono/RobotoMono-Thin.ttf");
-    font-weight: 100;
-    font-style: normal;
+  font-family: "Roboto Mono";
+  src: url("fonts/Roboto Mono/RobotoMono-Thin.ttf");
+  font-weight: 100;
+  font-style: normal;
 }
 
 @font-face {
-    font-family: "Roboto Mono";
-    src: url("fonts/Roboto Mono/RobotoMono-ThinItalic.ttf");
-    font-weight: 100;
-    font-style: italic;
+  font-family: "Roboto Mono";
+  src: url("fonts/Roboto Mono/RobotoMono-ThinItalic.ttf");
+  font-weight: 100;
+  font-style: italic;
 }
 
 @font-face {
-    font-family: "Roboto Mono";
-    src: url("fonts/Roboto Mono/RobotoMono-Light.ttf");
-    font-weight: 300;
-    font-style: normal;
+  font-family: "Roboto Mono";
+  src: url("fonts/Roboto Mono/RobotoMono-Light.ttf");
+  font-weight: 300;
+  font-style: normal;
 }
 
 @font-face {
-    font-family: "Roboto Mono";
-    src: url("fonts/Roboto Mono/RobotoMono-LightItalic.ttf");
-    font-weight: 300;
-    font-style: italic;
+  font-family: "Roboto Mono";
+  src: url("fonts/Roboto Mono/RobotoMono-LightItalic.ttf");
+  font-weight: 300;
+  font-style: italic;
 }
 
 @font-face {
-    font-family: "Roboto Mono";
-    src: url("fonts/Roboto Mono/RobotoMono-Regular.ttf");
-    font-weight: 400;
-    font-style: normal;
+  font-family: "Roboto Mono";
+  src: url("fonts/Roboto Mono/RobotoMono-Regular.ttf");
+  font-weight: 400;
+  font-style: normal;
 }
 
 @font-face {
-    font-family: "Roboto Mono";
-    src: url("fonts/Roboto Mono/RobotoMono-Medium.ttf");
-    font-weight: 500;
-    font-style: normal;
+  font-family: "Roboto Mono";
+  src: url("fonts/Roboto Mono/RobotoMono-Medium.ttf");
+  font-weight: 500;
+  font-style: normal;
 }
 
 @font-face {
-    font-family: "Roboto Mono";
-    src: url("fonts/Roboto Mono/RobotoMono-MediumItalic.ttf");
-    font-weight: 500;
-    font-style: italic;
+  font-family: "Roboto Mono";
+  src: url("fonts/Roboto Mono/RobotoMono-MediumItalic.ttf");
+  font-weight: 500;
+  font-style: italic;
 }
 
 @font-face {
-    font-family: "Roboto Mono";
-    src: url("fonts/Roboto Mono/RobotoMono-Bold.ttf");
-    font-weight: 700;
-    font-style: normal;
+  font-family: "Roboto Mono";
+  src: url("fonts/Roboto Mono/RobotoMono-Bold.ttf");
+  font-weight: 700;
+  font-style: normal;
 }
 
 @font-face {
-    font-family: "Roboto Mono";
-    src: url("fonts/Roboto Mono/RobotoMono-BoldItalic.ttf");
-    font-weight: 700;
-    font-style: italic;
+  font-family: "Roboto Mono";
+  src: url("fonts/Roboto Mono/RobotoMono-BoldItalic.ttf");
+  font-weight: 700;
+  font-style: italic;
 }
 
 /* END ROBOTO MONO FONT DEFINITIONS */
@@ -195,91 +195,91 @@
 /* BEGIN ROBOTO SLAB FONT DEFINITIONS */
 
 @font-face {
-    font-family: "Roboto Slab";
-    src: url("fonts/Roboto Slab/RobotoSlab-Thin.ttf");
-    font-weight: 100;
-    font-style: normal;
+  font-family: "Roboto Slab";
+  src: url("fonts/Roboto Slab/RobotoSlab-Thin.ttf");
+  font-weight: 100;
+  font-style: normal;
 }
 
 @font-face {
-    font-family: "Roboto Slab";
-    src: url("fonts/Roboto Slab/RobotoSlab-Light.ttf");
-    font-weight: 300;
-    font-style: normal;
+  font-family: "Roboto Slab";
+  src: url("fonts/Roboto Slab/RobotoSlab-Light.ttf");
+  font-weight: 300;
+  font-style: normal;
 }
 
 @font-face {
-    font-family: "Roboto Slab";
-    src: url("fonts/Roboto Slab/RobotoSlab-Regular.ttf");
-    font-weight: 400;
-    font-style: normal;
+  font-family: "Roboto Slab";
+  src: url("fonts/Roboto Slab/RobotoSlab-Regular.ttf");
+  font-weight: 400;
+  font-style: normal;
 }
 
 @font-face {
-    font-family: "Roboto Slab";
-    src: url("fonts/Roboto Slab/RobotoSlab-Bold.ttf");
-    font-weight: 700;
-    font-style: normal;
+  font-family: "Roboto Slab";
+  src: url("fonts/Roboto Slab/RobotoSlab-Bold.ttf");
+  font-weight: 700;
+  font-style: normal;
 }
 
 /* END ROBOTO SLAB FONT DEFINITIONS */
 
 p {
-    font-family: "Roboto", sans-serif;
+  font-family: "Roboto", sans-serif;
 }
 
 light {
-    font-weight: 300;
+  font-weight: 300;
 }
 
 ultra-light {
-    font-weight: 100;
+  font-weight: 100;
 }
 
 heavy {
-    font-weight: 700;
+  font-weight: 700;
 }
 
 ultra-heavy {
-    font-weight: 900;
+  font-weight: 900;
 }
 
 medium {
-    font-weight: 500;
+  font-weight: 500;
 }
 
 .navbar li {
-    list-style-type: none;
-    display: inline;
-    padding: 1em 2em 1em 2em;
-    font-family: "Roboto", sans-serif;
-    font-weight: 900;
-    background-color: #ffeb3b;
-    float: left;
+  list-style-type: none;
+  display: inline;
+  padding: 1em 2em 1em 2em;
+  font-family: "Roboto", sans-serif;
+  font-weight: 900;
+  background-color: #ffeb3b;
+  float: left;
 }
 
 .navbar li:hover {
-    background-color: #ffd600;
-    transition: background-color;
-    transition-duration: 0.5s;
+  background-color: #ffd600;
+  transition: background-color;
+  transition-duration: 0.5s;
 }
 
 .navlink:link {
-    color: black;
-    text-decoration: none
+  color: black;
+  text-decoration: none;
 }
 
 .navlink:visited {
-    color: black;
-    text-decoration: none
+  color: black;
+  text-decoration: none;
 }
 
 .navlink:hover {
-    color: black;
-    text-decoration: none
+  color: black;
+  text-decoration: none;
 }
 
 .navlink:active {
-    color: black;
-    text-decoration: none
+  color: black;
+  text-decoration: none;
 }
