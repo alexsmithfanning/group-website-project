@@ -319,9 +319,16 @@ medium {
 /* Show the dropdown menu on hover */
 .dropdown:hover .dropdown-content {
   display: block;
+  transition: display;
+  transition-duration: 3s;
 }
 
 /* Change the background color of the dropdown button when the dropdown content is shown */
 .dropdown:hover .dropdown-button {
   background-color: #ffd600;
+}
+
+navlink {
+    transition: background-color;
+    transition-duration: 0.5s;
 }
