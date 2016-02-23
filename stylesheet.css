@@ -270,6 +270,7 @@ ul.MenuBarVertical {
   width: 8em;
   font-family: "Roboto", sans-serif;
   font-weight: 900;
+  float: left;
 }
 
 /* Set the active Menu Bar with this class, currently setting z-index to accomodate IE rendering bug: http://therealcrisp.xs4all.nl/meuk/IE-zindexbug.html */
@@ -374,4 +375,12 @@ ul.MenuBarVertical a.MenuBarItemSubmenuHover {
   background-image: url("SpryAssets/SpryMenuBarRight.gif");
   background-repeat: no-repeat;
   background-position: 95% 50%;
+}
+
+div {
+  width: 320px;
+  padding: 10px;
+  border: 5px solid gray;
+  margin: 0;
+  float: left;
 }
