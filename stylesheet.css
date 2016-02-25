@@ -250,9 +250,9 @@ medium {
   font-weight: 500;
 }
 
-/* SpryMenuBarVertical.css - version 0.6 - Spry Pre-Release 1.6.1 */
+/* menu.js style information */
 
-/* Copyright (c) 2006. Adobe Systems Incorporated. All rights reserved. */
+/* Copyright © 2016 Alex Smith-Fanning */
 
 /*******************************************************************************
 
@@ -275,7 +275,7 @@ ul.MenuBarVertical {
   float: none;
 }
 
-/* Set the active Menu Bar with this class, currently setting z-index to accomodate IE rendering bug: http://therealcrisp.xs4all.nl/meuk/IE-zindexbug.html */
+/* Set the active Menu Bar with this class */
 ul.MenuBarActive {
   z-index: 1000;
 }
@@ -380,11 +380,13 @@ ul.MenuBarVertical a.MenuBarItemSubmenuHover {
 }
 
 .header {
-  background-color: black;
-  color: white;
+  background-color: #ffeb3b;
+  color: black;
   text-align: center;
-  padding: 10px;
-  overflow: auto;
+  padding: 10px 10px 10px 15px;
+  font-family: "Roboto Slab";
+  font-weight: 300;
+  font-size: 20pt;
 }
 
 .content {
