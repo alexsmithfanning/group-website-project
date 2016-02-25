@@ -381,14 +381,24 @@ ul.MenuBarVertical a.MenuBarItemSubmenuHover {
 .header {
   background-color: #ffeb3b;
   color: black;
-  text-align: center;
+  text-align: right;
   padding: 10px 10px 10px 15px;
   font-family: "Roboto Slab";
   font-weight: 300;
-  font-size: 20pt;
+  font-size: 30pt;
   display: block;
+  height: 110px;
+  vertical-align: middle;
 }
 
 .content {
   display: block;
 }
+
+.logo {
+	display: block;
+	float: left;
+	position: absolute;
+	
+}
+
