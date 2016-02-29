@@ -270,13 +270,12 @@ ul.MenuBarVertical {
   width: 8em;
   font-family: "Roboto", sans-serif;
   font-weight: 900;
-  position: absolute;
-  float: none;
+  float: left;
 }
 
 /* Set the active Menu Bar with this class */
 ul.MenuBarActive {
-  z-index: 1000;
+
 }
 
 /* Menu item containers, position children relative to this container and are same fixed width as parent */
@@ -298,7 +297,7 @@ ul.MenuBarVertical ul {
   list-style-type: none;
   font-size: 100%;
   position: absolute;
-  z-index: 1020;
+
   cursor: default;
   width: 9em;
   left: -1000em;
@@ -379,7 +378,7 @@ ul.MenuBarVertical a.MenuBarItemSubmenuHover {
 }
 
 .header {
-  background-color: #ffeb3b;
+  background-color: #;
   color: black;
   text-align: right;
   padding: 10px 10px 10px 15px;
@@ -393,6 +392,8 @@ ul.MenuBarVertical a.MenuBarItemSubmenuHover {
 
 .content {
   display: block;
+  margin:5em ;
+
 }
 
 .logo {
