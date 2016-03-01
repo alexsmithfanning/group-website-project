@@ -262,7 +262,7 @@ medium {
 
 /* The outermost container of the Menu Bar, a fixed width box with no margin or padding */
 ul.MenuBarVertical {
-  margin: 0;
+  margin: 0 1em 0 0;
   padding: 0;
   list-style-type: none;
   font-size: 100%;
@@ -275,7 +275,7 @@ ul.MenuBarVertical {
 
 /* Set the active Menu Bar with this class */
 ul.MenuBarActive {
-
+  /* I have no idea what I'm going to do with this yet */
 }
 
 /* Menu item containers, position children relative to this container and are same fixed width as parent */
@@ -378,28 +378,30 @@ ul.MenuBarVertical a.MenuBarItemSubmenuHover {
 }
 
 .header {
-  background-color: #;
+  background-color: #ffeb3b;
   color: black;
   text-align: right;
   padding: 10px 10px 10px 15px;
   font-family: "Roboto Slab";
-  font-weight: 300;
+  font-weight: 500;
   font-size: 30pt;
   display: block;
   height: 110px;
-  vertical-align: middle;
 }
 
 .content {
   display: block;
-  margin:5em ;
-
+  margin: 0 0 0 0;
 }
 
 .logo {
-	display: block;
-	float: left;
-	position: absolute;
-	
+  display: block;
+  float: left;
+  position: absolute;
+  margin: 0;
+  padding: 0;
 }
 
+.services {
+  float: left;
+}
