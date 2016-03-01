@@ -365,14 +365,14 @@ ul.MenuBarVertical a.MenuBarSubmenuVisible {
 
 /* Menu items that have a submenu have the class designation MenuBarItemSubmenu and are set to use a background image positioned on the far left (95%) and centered vertically (50%) */
 ul.MenuBarVertical a.MenuBarItemSubmenu {
-  background-image: url("SpryAssets/SpryMenuBarRight.gif");
+  background-image: url("images/SpryMenuBarRight.gif");
   background-repeat: no-repeat;
   background-position: 95% 50%;
 }
 
 /* Menu items that are open with submenus have the class designation MenuBarItemSubmenuHover and are set to use a "hover" background image positioned on the far left (95%) and centered vertically (50%) */
 ul.MenuBarVertical a.MenuBarItemSubmenuHover {
-  background-image: url("SpryAssets/SpryMenuBarRight.gif");
+  background-image: url("images/SpryMenuBarRight.gif");
   background-repeat: no-repeat;
   background-position: 95% 50%;
 }
@@ -404,4 +404,29 @@ ul.MenuBarVertical a.MenuBarItemSubmenuHover {
 
 .services {
   float: left;
+  font-family: "Roboto", sans-serif;
+}
+
+.services li {
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  list-style-type: disc;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  color: dodgerblue;
+}
+
+a:link {
+  color: darkblue;
+}
+
+new {
+  color: orangered;
+  font-weight: 900;
+  font-family: "Roboto Mono", monospace;
 }
