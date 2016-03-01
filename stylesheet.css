@@ -334,9 +334,9 @@ ul.MenuBarVertical ul {
 ul.MenuBarVertical a {
   display: block;
   cursor: pointer;
-  background-color: #ffeb3b;
+  background-color: #f2c36b;
   padding: 1em 1em;
-  color: #333;
+  color: white;
   text-decoration: none;
 }
 
@@ -379,7 +379,7 @@ ul.MenuBarVertical a.MenuBarItemSubmenuHover {
 
 .header {
   background-color: #f2c36b;
-  color: black;
+  color: white;
   text-align: right;
   padding: 10px 10px 10px 15px;
   font-family: "Roboto Slab";
@@ -441,3 +441,14 @@ new {
   font-family: "Roboto", sans-serif;
   font-weight: 500;
 }
+.facts {
+	float: right;
+	padding: 1em;
+}
+
+.facts li {
+	font-family: "Roboto", sans-serif;
+	font-weight: 300;
+}
+
+
