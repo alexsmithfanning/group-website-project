@@ -378,7 +378,7 @@ ul.MenuBarVertical a.MenuBarItemSubmenuHover {
 }
 
 .header {
-  background-color: #ffeb3b;
+  background-color: #f2c36b;
   color: black;
   text-align: right;
   padding: 10px 10px 10px 15px;
@@ -387,6 +387,7 @@ ul.MenuBarVertical a.MenuBarItemSubmenuHover {
   font-size: 30pt;
   display: block;
   height: 110px;
+  vertical-align: middle;
 }
 
 .content {
@@ -405,12 +406,12 @@ ul.MenuBarVertical a.MenuBarItemSubmenuHover {
 .services {
   float: left;
   font-family: "Roboto", sans-serif;
+  padding: 1em;
 }
 
 .services li {
   font-family: "Roboto", sans-serif;
   font-weight: 300;
-  list-style-type: disc;
 }
 
 a {
@@ -429,4 +430,14 @@ new {
   color: orangered;
   font-weight: 900;
   font-family: "Roboto Mono", monospace;
+}
+
+.givingback {
+  float: right;
+  padding: 1em;
+}
+
+.section-title {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
 }
