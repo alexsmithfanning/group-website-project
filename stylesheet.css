@@ -438,9 +438,22 @@ new {
   padding: 1em;
 }
 
-.section-title {
+.section-title-medium {
   font-family: "Roboto", sans-serif;
   font-weight: 500;
+  font-size: 12pt;
+}
+
+.section-title-large {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 12pt;
+}
+
+.section-title-medium {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 16pt;
 }
 
 .facts {
@@ -456,4 +469,15 @@ new {
 .contact {
   font-family: "Roboto", sans-serif;
   font-weight: 500;
+}
+
+.text {
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+}
+
+.small-padding-top {
+    padding-top: 0.25em;
+    padding-bottom: 0.5em;
+    margin: 0;
 }
