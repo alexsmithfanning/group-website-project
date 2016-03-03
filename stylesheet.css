@@ -481,3 +481,13 @@ new {
     padding-bottom: 0.5em;
     margin: 0;
 }
+
+.foot {
+	position: absolute;
+	bottom: 0;
+	background-color: green;
+	padding: 0;
+	width: 100%;
+	left: 0;
+	
+}
