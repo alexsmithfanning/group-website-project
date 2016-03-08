@@ -486,11 +486,12 @@ new {
 .foot {
 	position: absolute;
 	bottom: 0;
-	background-color: green;
+	background-color: orange;
 	padding: 0;
 	width: 100%;
 	left: 0;
-	
+	font-family: "Roboto", sans-serif;
+	font-weight: 300;
 }
 
 .large-padding-bottom {
@@ -499,4 +500,12 @@ new {
 
 .secondary-container {
     padding: 2em;
+}
+.footercontainer {
+	padding: 2em;
+	float: right;
+	top: 0;
+	position: absolute;
+	right: 0;
+	bottom: 0;
 }
