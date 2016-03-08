@@ -486,11 +486,12 @@ new {
 .foot {
 	position: absolute;
 	bottom: 0;
-	background-color: green;
+	background-color: orange;
 	padding: 0;
 	width: 100%;
 	left: 0;
-	
+	font-family: "Roboto", sans-serif;
+	font-weight: 300;
 }
 
 .large-padding-bottom {
@@ -500,6 +501,7 @@ new {
 .secondary-container {
     padding: 2em;
 }
+<<<<<<< HEAD
 
 .left {
 	position: absolute;
@@ -507,3 +509,12 @@ new {
 	left: 479px;
 	top: 277px;
 }
+=======
+.footercontainer {
+	float: right;
+	position: absolute;
+	bottom: 0;
+	right: 5em;
+	
+}
+>>>>>>> 0892163b3e6fa97712013a7dc3dbccf2cba0aa22
