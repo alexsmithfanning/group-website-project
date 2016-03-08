@@ -502,10 +502,9 @@ new {
     padding: 2em;
 }
 .footercontainer {
-	padding: 2em;
 	float: right;
-	top: 0;
 	position: absolute;
-	right: 0;
 	bottom: 0;
+	right: 5em;
+	
 }
