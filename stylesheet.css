@@ -500,3 +500,10 @@ new {
 .secondary-container {
     padding: 2em;
 }
+
+.left {
+	position: absolute;
+	float: right;
+	left: 479px;
+	top: 277px;
+}
