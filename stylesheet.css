@@ -442,6 +442,7 @@ new {
   font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 12pt;
+  padding-bottom: 0.1em;
 }
 
 .section-title-large {
@@ -490,4 +491,12 @@ new {
 	width: 100%;
 	left: 0;
 	
+}
+
+.large-padding-bottom {
+    padding-bottom: 2em;
+}
+
+.secondary-container {
+    padding: 2em;
 }
