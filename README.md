@@ -18,7 +18,7 @@ Or, if you can't find the button, you can always use [this link](https://github.
 
 #### If you have any issues
 
-If you have problems accessing anything, just email me at <a href="mailto:alexsmithfanning@gmail.com" target="_top">my personal email address</a> (alexsmithfanning@gmail.com). **Do not contact me via my school Google account, I do not look at it very often!**
+If you have problems accessing anything, just email me at my personal email address (alexsmithfanning@gmail.com). **Do not contact me via my school Google account, I do not look at it very often!**
 
 ## Contributing to this project
 
