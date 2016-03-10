@@ -6,6 +6,20 @@ This project now has Slack integration. **Visit the Slack page [here](https://ap
 
 **To preview what it looks like right now, click <a href="http://alexsmithfanning.github.io/group-website-project/">here</a>.**
 
+## Welcome Mrs. Green!
+
+### Grading
+
+#### How to download the code
+
+To make it easier to grade the project, I'd suggest that you download the entire project as an Info-ZIP archive and then extract it. You can do that by going to the top of the page and pressing the button named `Download ZIP`. I'm going to assume you know what to do from there.
+
+Or, if you can't find the button, you can always use [this link](https://github.com/alexsmithfanning/group-website-project/archive/gh-pages.zip) to download the latest version of the project. It's the same process no matter how you decide to go about obtaining it.
+
+#### If you have any issues
+
+If you have problems accessing anything, just email me at <a href="mailto:alexsmithfanning@gmail.com" target="_top">my personal email address</a> (alexsmithfanning@gmail.com). **Do not contact me via my school Google account, I do not look at it very often!**
+
 ## Contributing to this project
 
 **All pull requests will be ignored unless you are an active part of my group with a GitHub account. This project does not allow outside sources of contribution.**
