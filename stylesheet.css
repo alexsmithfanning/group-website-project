@@ -451,11 +451,7 @@ new {
   font-size: 12pt;
 }
 
-.section-title-medium {
-  font-family: "Roboto", sans-serif;
-  font-weight: 500;
-  font-size: 16pt;
-}
+
 
 .facts {
 	float: right;
@@ -531,4 +527,9 @@ new {
     float: right;
     top: 0;
     padding-right: 2em;
+}
+
+.charities {
+	display: block;
+	float: right;
 }
