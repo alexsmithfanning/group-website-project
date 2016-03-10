@@ -499,10 +499,7 @@ new {
 }
 
 .left {
-	position: absolute;
-	float: right;
-	left: 479px;
-	top: 277px;
+	float: left;
 }
 
 .footercontainer {
