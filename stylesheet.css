@@ -486,7 +486,7 @@ new {
 .foot {
 	position: absolute;
 	bottom: 0;
-	background-color: orange;
+	background-color: #f2c36b;
 	padding: 0;
 	width: 100%;
 	left: 0;
@@ -501,7 +501,6 @@ new {
 .secondary-container {
     padding: 2em;
 }
-<<<<<<< HEAD
 
 .left {
 	position: absolute;
@@ -509,7 +508,7 @@ new {
 	left: 479px;
 	top: 277px;
 }
-=======
+
 .footercontainer {
 	float: right;
 	position: absolute;
@@ -517,4 +516,19 @@ new {
 	right: 5em;
 	
 }
->>>>>>> 0892163b3e6fa97712013a7dc3dbccf2cba0aa22
+
+.foot-left {
+    padding-left: 2em;
+    padding-top: 1em;
+}
+
+.foot-list {
+    list-style-type: none;
+    display: inline;
+}
+
+.foot-right {
+    float: right;
+    top: 0;
+    padding-right: 2em;
+}
