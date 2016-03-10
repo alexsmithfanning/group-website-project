@@ -530,3 +530,6 @@ new {
 	display: block;
 	float: right;
 }
+.form {
+	float: left;
+}
